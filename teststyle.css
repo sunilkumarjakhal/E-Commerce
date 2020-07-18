@@ -1,0 +1,64 @@
+body{
+text-overflow: ellipsis;
+}
+
+.wrapper
+{
+	border: 1px;
+	border-style: solid;
+	margin: 5px;
+	padding: 15px;
+	height: 90%;
+	width: 50%;
+
+
+}
+#table 
+{
+	
+	margin: 5px;
+	padding: 5px;
+text-overflow: ellipsis;
+
+}
+#table th,#table td
+{
+	border: 1px solid black;
+	margin: 1px;
+	padding: 2px;
+	text-align: center;
+	max-width: 100px;
+text-overflow: ellipsis;
+	
+
+}
+body{
+	background-color:#F0FFFF;
+}
+#show{
+	padding-left: 200px;
+}
+
+
+#header{
+		width: 100%;
+height: 60px;
+background-color: #7FFF4;
+border-bottom:1px solid black;
+
+}
+
+#logout{
+
+
+padding-right: 15px;
+float:right;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+div{
+	margin:10px;
+	
+}
